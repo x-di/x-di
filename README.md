@@ -1,5 +1,6 @@
 
 # Hi, I'm Dimas(x-di)! 👋
+[![@xdi's Holopin board](https://holopin.io/api/user/board?user=xdi)](https://holopin.io/@xdi)
 
 ## Skills
 PHP, Javascript, Typescript, HTML, CSS, Laravel, React, Nextjs, MySQL
@@ -7,7 +8,7 @@ PHP, Javascript, Typescript, HTML, CSS, Laravel, React, Nextjs, MySQL
 
 ## Web Developer located in Indonesia
 
--  I’m currently learning Laravel, React, Nextjs
+-  I’m currently learning Laravel, React, Nextjs, Machine Learning
 -  I'm now learning React on the learning path dicoding
 
 
